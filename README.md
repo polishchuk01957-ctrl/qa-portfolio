@@ -6,14 +6,14 @@ QA Portfolio
 
 Навички та інструменти
 
-* Manual QA:функціональне та регресійне тестування, тест-дизайн, складання баг-репортів
+* Manual QA: функціональне та регресійне тестування, тест-дизайн, складання баг-репортів
 * Bug Tracking: Jira
 * API Testing: Postman, Swagger, HTTP-запити, перевірка статус-кодів і JSON-відповідей
 * SQL: SELECT, WHERE, ORDER BY, LIMIT, GROUP BY, HAVING, COUNT, AVG, INNER JOIN, LEFT JOIN
 
 Практичні роботи
 
-1. Bug Reports — PUMA
+1. Bug Reports - PUMA
 
 Три дефекти, самостійно виявлені під час тестування інтернет-магазину:
 
@@ -21,13 +21,13 @@ QA Portfolio
 * Перевірка оформлення замовлення після вибору населеного пункту
 * Перевірка валідації пароля під час реєстрації
 
-2. Bug Reports — ROZETKA
+2. Bug Reports - ROZETKA
 
 Навчальні приклади баг-репортів для практики опису дефектів, визначення Severity та Priority
 
 Примітка: ці дефекти є вигаданими навчальними прикладами й не свідчать про наявність реальних проблем на сайті ROZETKA
 
-3. API Testing — Swagger Petstore
+3. API Testing - Swagger Petstore
 
 Практика тестування API за допомогою Postman:
 
