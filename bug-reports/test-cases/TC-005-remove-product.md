@@ -11,7 +11,7 @@
 
 Телевізор Samsung QLED 55" QE55LS03FAUXUA, ціна 42999 грн 
 
-Телевізор Samsung QLED 55" QE55LS03FAUXUA, ціна 26999 грн
+Телевізор Samsung QLED 55" QE55Q8FAAUXUA, ціна 26999 грн
 
 ## Кроки виконання
 
