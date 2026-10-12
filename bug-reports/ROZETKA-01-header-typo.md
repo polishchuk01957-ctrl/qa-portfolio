@@ -1,7 +1,7 @@
 # Помилка в написанні слова «Сміливість» у хедері
 
 **Проєкт:** ROZETKA  
-**ID у Jira:** QA-4
+**ID у Jira:** QA-7
 **Тип:** Bug  
 **Severity:** Minor  
 **Priority:** High  
