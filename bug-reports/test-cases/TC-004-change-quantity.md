@@ -10,7 +10,7 @@
 
 ## Тестові дані
 
-Телевізор Samsung QLED 55" QE55LS03FAUXUA
+Телевізор Samsung QLED 55" QE55LS03FAUXUA, ціна 42999 грн
 
 ## Кроки виконання
 
