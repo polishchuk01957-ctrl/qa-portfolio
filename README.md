@@ -34,11 +34,8 @@ QA Portfolio
 
 ### API Testing — Swagger Petstore
 
-Практика тестування API за допомогою Postman:
-
-- Виконання GET, POST і PUT-запитів
-- Перевірка HTTP-статусів
-- Перевірка структури та значень JSON-відповідей
+Практичні роботи:
+- [API-001 — Створення та отримання даних про тварину](api-testing/API-001-create-and-get-pet.md)
 
 ## Сертифікати
 
