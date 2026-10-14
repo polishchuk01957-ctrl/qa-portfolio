@@ -35,4 +35,4 @@ Failed
 
 ## Пов'язаний баг-репорт: 
 
-[PUMA-02 — Проблема валідації пароля](../PUMA-02-password-validation.md)
+[PUMA-02 — Проблема валідації пароля](../bug-reports/PUMA-02-password-validation.md)
