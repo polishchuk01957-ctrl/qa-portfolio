@@ -1,6 +1,6 @@
 # TC-001 - Пошук товару за назвою
 
-**Проєкт:** ROZETKA
+**Проєкт:** ROZETKA  
 **Тип:** Functional Testing  
 **Пріоритет:** High  
 
