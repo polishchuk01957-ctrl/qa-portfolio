@@ -31,4 +31,4 @@
 Failed
 
 ## Пов'язаний баг-репорт
-[PUMA-001 — Проблема локалізації](../PUMA-01-localization.md)
+[PUMA-001 — Проблема локалізації](bug-reports/PUMA-01-localization.md)
