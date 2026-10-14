@@ -36,7 +36,7 @@ QA Portfolio
 
 Практичні роботи:
 - [API-001 — Створення та отримання даних про тварину](api-testing/API-001-create-and-get-pet.md)
-
+- [API-002 — Негативне тестування Swagger Petstore](api-testing/API-002-negative-testing.md)
 ## Сертифікати
 
 - [SQL — вступний курс](https://stepik.org/cert/3337270)
