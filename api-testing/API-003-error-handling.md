@@ -1,4 +1,4 @@
-# API-003-Перевірка обробки помилок API
+# API-003 - Автоматизовані перевірки API в Postman
 
 **Проєкт:** Swagger Petstore  
 **Тип:** API Testing  
